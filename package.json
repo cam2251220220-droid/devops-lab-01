@@ -1,0 +1,28 @@
+{
+  "name": "devops-lab-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testRunner": "jest-circus/runner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cam2251220220-droid/devops-lab-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cam2251220220-droid/devops-lab-01/issues"
+  },
+  "homepage": "https://github.com/cam2251220220-droid/devops-lab-01#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-circus": "^29.7.0"
+  }
+}
